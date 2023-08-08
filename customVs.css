@@ -1,0 +1,78 @@
+.title {
+  font-family: "Terminus (TTF)" !important;
+  font-size: 12px !important;
+}
+
+.terminal {
+  font-family: "Terminus (TTF)" !important;
+  font-size: 12px !important;
+}
+.lable-name {
+  font-family: "Terminus (TTF)" !important;
+  font-size: 12px !important;
+}
+.monaco-list-rows {
+  font-family: "Terminus (TTF)" !important;
+  font-size: 12px;
+}
+
+.monaco-icon-name-container {
+  font-family: "Terminus (TTF)" !important;
+  font-size: 12px;
+}
+
+.linux {
+  font-family: "Terminus (TTF)" !important;
+}
+
+.explorer-folders-view .editor-group,
+.explorer-folders-view .explorer-item {
+  font-family: "Terminus (TTF)" !important;
+  font-size: 12px !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label a, .monaco-workbench .part.editor>.content .editor-group-container>.title .title-label a{
+  font-size: 12px !important;
+}
+
+.monaco-workbench .part>.title>.title-label h2 {
+  visibility: hidden;
+}
+
+/* .explorer-folders-view .monaco-list-row {
+  padding-left: 8px !important;
+} */
+
+.codicon-paintcan:before{
+  content: '' !important;
+}
+
+.monaco-workbench .part{
+  height: 100% !important;
+}
+
+.monaco-workbench .part>.composite.title{
+  display: none !important;
+}
+.monaco-list>.monaco-scrollable-element{
+  padding: 5px !important;
+}
+
+/* .monaco-workbench .part>.composite.title{
+  display: none !important;
+} */
+/* .codicon-compare-changes:before{
+  content: '' !important;
+}
+
+.codicon-gitlens-prev-commit:before{
+  content: '' !important;
+}
+
+.codicon-gitlens-commit-horizontal:before{
+  content: '' !important;
+}
+
+.codicon-gitlens-next-commit:before{
+  content: '' !important;
+} */
